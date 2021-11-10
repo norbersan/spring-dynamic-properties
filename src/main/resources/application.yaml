@@ -1,0 +1,3 @@
+application:
+  host: unsafe.host
+  port: 80
